@@ -1,8 +1,10 @@
 # django-rest-user-activies
 
-1. Clone the project.
+1. Clone the project using the command " git clone https://github.com/itssunny322/User_activity.git " .
 
-2. Create python virtual environment.
+2. Create python virtual environment using command " python3 -m venv /path/to/new/virtualEnvironment".
+
+3. Activate virtual environment you created " source virtualEnvironment/bin/activate"
 
 3. Install requirements using the command " pip install -r requirements.txt"
 
